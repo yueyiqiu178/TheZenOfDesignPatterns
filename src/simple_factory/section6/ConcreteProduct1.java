@@ -8,6 +8,7 @@ public class ConcreteProduct1 extends Product {
 
 	public void doSomething() {
 		//Âß¼­´¦Àí
+		System.out.println("Product1 doSomething");
 	}
 
 }
