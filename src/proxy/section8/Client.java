@@ -1,4 +1,4 @@
-package proxy.section5;
+package proxy.section8;
 
 /**
  * @author cbf4Life cbf4life@126.com
@@ -10,17 +10,17 @@ public class Client {
 	public static void main(String[] args) {
 		//定义个游戏的角色
 		IGamePlayer player = new GamePlayer("张三");
-		//player.getProxy();
+		//获得指定的代理
+		IGamePlayer proxy = player.getProxy();
 		//开始打游戏，记下时间戳
 		System.out.println("开始时间是：2009-8-25 10:45");
-		player.login("zhangSan", "password");
+		proxy.login("zhangSan", "password");
 		//开始杀怪
-		player.killBoss();
+		proxy.killBoss();
 		//升级
-		player.upgrade();
+		proxy.upgrade();
 		//记录结束游戏时间
 		System.out.println("结束时间是：2009-8-26 03:40");
-		
 	}
-
 }
+
