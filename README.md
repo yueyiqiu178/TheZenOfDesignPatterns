@@ -1,5 +1,6 @@
 # Java-Zen-of-Design-Pattern
 source code of the book--zen of design pattern(设计模式之禅)
+设计模式之禅书本源代码,程式码
 ##### you can find the book here
 https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf
 ##### 【本书目录】
@@ -83,7 +84,7 @@ https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%
 ##### 12.4.4 虚拟代理 
 ##### 12.4.5 动态代理 
 ##### 12.5 最佳实践 
-#### 第13章 原型模式 
+#### 第13章 原型模式 (prototype)
 ##### 13.1 个性化电子账单 
 ##### 13.2 原型模式的定义 
 ##### 13.3 原型模式的应用 
@@ -94,13 +95,13 @@ https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%
 ##### 13.4.2 浅拷贝和深拷贝 
 ##### 13.4.3 clone与final两个冤家 
 ##### 13.5 最佳实践 
-#### 第14章 中介者模式 
+#### 第14章 中介者模式 (mediator)
 ##### 14.1 进销存管理是这个样子的吗？ 
 ##### 14.2 中介者模式的定义 
 ##### 14.3 中介者模式的应用 
 ##### 14.4 中介者模式的实际应用 
 ##### 14.5 最佳实践 
-#### 第15章 命令模式 
+#### 第15章 命令模式 (command)
 ##### 15.1 项目经理也难当 
 ##### 15.2 命令模式的定义 
 ##### 15.3 命令模式的应用 
@@ -111,7 +112,7 @@ https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%
 ##### 15.4.1 未讲完的故事 
 ##### 15.4.2 反悔问题 
 ##### 15.5 最佳实践 
-#### 第16章 责任链模式 
+#### 第16章 责任链模式 (chain_of_responsibility)
 ##### 16.1 古代妇女的枷锁—“三从四德” 
 ##### 16.2 责任链模式的定义 
 ##### 16.3 责任链模式的应用 
