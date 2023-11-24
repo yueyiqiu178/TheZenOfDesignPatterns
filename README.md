@@ -1,6 +1,6 @@
 # Java-Zen-of-Design-Pattern
 source code of the book--zen of design pattern(设计模式之禅)
-设计模式之禅书本源代码,程式码
+设计模式之禅源代码,程式码
 ##### you can find the book here
 https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf
 ##### 【本书目录】
@@ -120,7 +120,7 @@ https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%
 ##### 16.3.2 责任链模式的缺点 
 ##### 16.3.3 责任链模式的注意事项 
 ##### 16.4 最佳实践 
-#### 第17章 装饰模式 
+#### 第17章 装饰模式 (decorator)
 ##### 17.1 罪恶的成绩单 
 ##### 17.2 装饰模式的定义 
 ##### 17.3 装饰模式应用 
