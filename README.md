@@ -250,7 +250,7 @@ https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%
 ##### 29.3.3 桥梁模式的注意事项 
 ##### 29.4 最佳实践 
 ### 第三部分 谁的地盘谁做主—模式PK篇 
-#### 30章 创建类模式大PK 
+#### 30章 创建类模式大PK (factory_builder,abstractfactory_builder)
 ##### 30.1 工厂方法模式VS建造者模式 
 ##### 30.1.1 按工厂方法建造超人 
 ##### 30.1.2 按建造者模式建造超人 
