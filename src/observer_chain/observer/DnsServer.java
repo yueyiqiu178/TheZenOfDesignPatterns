@@ -18,11 +18,12 @@ public abstract class DnsServer extends Observable implements Observer {
 		//如果本机能解析
 		if(isLocal(recorder)){
 			recorder.setIp(genIpAddress());
+			sign(recorder);
 		}else{//本机不能解析，则提交到上级DNS
 			responsFromUpperServer(recorder);
 		}
 		//签名
-		sign(recorder);
+		
 	}
 
 	//作为被观察者，允许增加观察者,DNS解析的上级DNS一般是一个
