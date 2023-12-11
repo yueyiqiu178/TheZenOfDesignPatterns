@@ -259,7 +259,7 @@ https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%
 ##### 30.2.1 按抽象工厂模式生产车辆 
 ##### 30.2.2 按建造者模式生产车辆 
 ##### 30.2.3 最佳实践 
-#### 第31章 结构类模式大PK 
+#### 第31章 结构类模式大PK (proxy_decorator,decorator_adapter)
 ##### 31.1 代理模式VS装饰模式 
 ##### 31.1.1 代理模式 
 ##### 31.1.2 装饰模式 
@@ -268,7 +268,7 @@ https://github.com/zengkid/pdf-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%
 ##### 31.2.1 按装饰模式描述丑小鸭 
 ##### 31.2.2 按适配器模式实现丑小鸭 
 ##### 31.2.3 最佳实践 
-#### 第32章 行为类模式大PK 
+#### 第32章 行为类模式大PK (command_strategy,strategy_state,observer_chain)
 ##### 32.1 命令模式VS策略模式 
 ##### 32.1.1 策略模式实现压缩算法 
 ##### 32.1.2 命令模式实现压缩算法 
